@@ -6,6 +6,7 @@ Settings for theme editor @ http://www.dotsarecool.com/sd2snesimg/
 
 ## Banner Image: 
 
+![banner](https://github.com/anthonycaccese/fxpackpro-themes/blob/main/min-fxpackpro/fxpackpro-min-theme-banner.png?raw=true)
 
 ## Settings:
 
